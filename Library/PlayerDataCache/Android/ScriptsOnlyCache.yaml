@@ -12,6 +12,8 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.IK.IKEditorManager
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -66,31 +68,31 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1544}
+      Script: {instanceID: 1546}
     - Class: 114
-      Script: {instanceID: 2276}
+      Script: {instanceID: 2278}
     - Class: 114
-      Script: {instanceID: 2318}
+      Script: {instanceID: 2320}
     - Class: 114
-      Script: {instanceID: 2758}
+      Script: {instanceID: 2760}
     - Class: 114
-      Script: {instanceID: 2936}
+      Script: {instanceID: 2938}
     - Class: 114
-      Script: {instanceID: 3194}
+      Script: {instanceID: 3196}
     - Class: 114
-      Script: {instanceID: 3258}
+      Script: {instanceID: 3260}
     - Class: 114
-      Script: {instanceID: 3456}
-    - Class: 114
-      Script: {instanceID: 3580}
+      Script: {instanceID: 3458}
     - Class: 114
       Script: {instanceID: 3582}
     - Class: 114
-      Script: {instanceID: 4346}
+      Script: {instanceID: 3584}
     - Class: 114
-      Script: {instanceID: 4580}
+      Script: {instanceID: 4348}
     - Class: 114
-      Script: {instanceID: 5908}
+      Script: {instanceID: 4582}
+    - Class: 114
+      Script: {instanceID: 5910}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -628,7 +630,7 @@ ScriptsOnlyBuild:
     className: SignalEmitter
   - hash:
       serializedVersion: 2
-      Hash: d52c7172c616d6dd03a54656f27080d0
+      Hash: 2c4391b34d0e2d0ec1be2dd16264c14c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Login
@@ -665,4 +667,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Mari/Desktop/LittleFire.apk
+  playerPath: D:/Mari/Desktop/Little Fire.apk

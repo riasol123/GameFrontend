@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "RFCN90DWXLL",
         "name": "com.DefaultCompany.com.unity.template.mobile2D",
-        "processId": 15119,
+        "processId": 31633,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -54,6 +54,42 @@
             "deviceId": "RFCN90DWXLL",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
             "processId": 15119,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN90DWXLL",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 15616,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN90DWXLL",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 22176,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN90DWXLL",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 25873,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN90DWXLL",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27853,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN90DWXLL",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 28726,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCN90DWXLL",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 31633,
             "exited": false
         }
     ],
